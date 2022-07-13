@@ -1,0 +1,23 @@
+{
+  "name": "x-pow",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simpe Proof of Work Function for Spam Prevention using 2X SHA-3. Customizeable First Byte and Multiplier.",
+  "main": "x-pow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neil-yoga-crypto/x-pow.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neil-yoga-crypto/x-pow.js/issues"
+  },
+  "homepage": "https://github.com/neil-yoga-crypto/x-pow.js#readme",
+  "dependencies": {
+    "@noble/hashes": "^1.1.2"
+  }
+}
