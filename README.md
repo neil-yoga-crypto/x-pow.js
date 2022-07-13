@@ -29,7 +29,7 @@ console.log("customPow", verifyPow(result2.rounds, powInput,result2.multiplier,c
 ```
 
 ### How it works?
-![image](example.png)
+![image](xpow.png)
 
 Here's how it works in code:
 ```
