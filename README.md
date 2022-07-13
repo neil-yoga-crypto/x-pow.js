@@ -5,6 +5,7 @@ Made for https://x-currency.org, useable for other projects as well.
 
 ### Install
 ```
+git clone https://github.com/neil-yoga-crypto/x-pow.js
 npm install @noble/hashes --save # install dependency for SHA3-384 hash function
 ## copy x-pow.js
 ```
