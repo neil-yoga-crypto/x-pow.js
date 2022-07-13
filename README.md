@@ -1,5 +1,7 @@
-# x-pow.js
-Simpe Proof of Work Function for Spam Prevention using 2X SHA-3. Customizeable First Byte and Multiplier. 
+# x-pow.js: Simple Spam Protection with 48 Possible Difficulties
+Simpe Proof of Work Function for Spam Protection using 2X SHA3-384. 
+
+Made for https://x-currency.org, useable for other projects as well. 
 
 ### Install
 ```
